@@ -4,7 +4,7 @@ MSc Computing thesis project by **Azeem Mansha** (G00486661), Atlantic Technolog
 
 This repository holds the dissertation and the three student reimplementation notebooks. The work **compares existing methods**; it does not propose a new detector.
 
-**Dissertation:** [Azeem_Mansha_Thesis.pdf](Azeem_Mansha_Thesis.pdf)
+**Dissertation:** [Azeem_Mansha_Thesis.pdf](Azeem_Mansha_Thesis.pdf) <br>
 **Video Link:**  https://www.youtube.com/watch?v=K1ae8ofQlhQ&t=40s
 ## What this project does
 
